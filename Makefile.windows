@@ -1,0 +1,36 @@
+# Where your MinGW SDL is installed
+SDL_ROOT_DIR = /usr/i686-w64-mingw32
+ 
+CFLAGS=`$(SDL_ROOT_DIR)/bin/sdl2-config --cflags`
+CXXFLAGS=`$(SDL_ROOT_DIR)/bin/sdl2-config --cflags`
+LDFLAGS=`$(SDL_ROOT_DIR)/bin/sdl2-config --libs` -lSDL2_image -lSDL2_ttf\
+		-lSDL2_mixer
+ 
+# Compilers
+CC  = /usr/bin/i686-w64-mingw32-gcc
+CXX = /usr/bin/i686-w64-mingw32-g++
+ 
+# Your program name and object files
+EXE     = belted.exe
+OBJECTS = src/args.o src/atariExplosion.o src/border.o src/close.o\
+		  src/collision.o src/credits.o src/enemy.o src/enterhighscore.o\
+		  src/events.o src/gameover.o src/help.o src/init.o src/initial.o\
+		  src/load.o src/main.o src/menu.o src/osd.o src/panel.o src/player.o\
+		  src/render.o src/reset.o src/scores.o src/ship.o src/sounds.o\
+		  src/starfield.o src/tail.o src/texture.o src/transition.o\
+		  src/update.o src/util.o src/warp.o src/kisskill.o
+ 
+# No need to edit anything from here below
+ 
+all: $(EXE)
+	# Everything ready!
+ 
+# Linking everything to the executable
+$(EXE): $(OBJECTS)
+	# Linking...
+	$(CXX) $(OBJECTS) -o $(EXE) $(LDFLAGS)
+ 
+# Compiling all `.cpp` sources
+src/%.o: src/%.cpp
+	# Compiling $<...
+	$(CXX) $(CFLAGS) $(INCLUDE) $< -c -o $@

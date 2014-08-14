@@ -1,0 +1,4 @@
+To build this program, just run 'make'.  I haven't switched it over to autotools
+yet.
+
+To cross-compile for Windows, run 'make -f Makefile.windows'.

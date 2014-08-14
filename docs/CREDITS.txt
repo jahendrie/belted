@@ -1,0 +1,63 @@
+Programming, art:
+    James Hendrie (hendrie.james@gmail.com)
+    http://www.someplacedumb.net/games
+
+
+Music:
+    Menu theme:
+    "Club Diver" Kevin MacLeod (incompetech.com)
+    Licensed under Creative Commons: By Attribution 3.0
+    http://creativecommons.org/licenses/by/3.0/
+
+    Main theme:
+    "Cut and Run" Kevin MacLeod (incompetech.com)
+    Licensed under Creative Commons: By Attribution 3.0
+    http://creativecommons.org/licenses/by/3.0/
+
+
+Sound effects:
+
+    Creative Commons:  Zero
+    http://creativecommons.org/publicdomain/zero/1.0
+        
+        transition.wav
+        Made in ten seconds, by me, using Audacity
+
+        sound_explosion.wav
+        http://www.freesound.org/people/tommccann/sounds/235968/
+
+        sound_ding.wav
+        http://www.freesound.org/people/gloriaeffect/sounds/108428/
+
+        sound_kiss.wav
+        http://www.freesound.org/people/GameAudio/sounds/220173/
+
+        sound_engine-up.wav, sound_engine-down.wav:
+        http://www.freesound.org/people/minian89/sounds/152509/
+
+        sound_1up.wav
+        http://www.freesound.org/people/RandomationPictures/sounds/138485/
+
+        sound_tick.wav
+        http://www.freesound.org/people/AntumDeluge/sounds/188033/
+
+
+    Create Commons:  By Attribution 3.0
+    http://creativecommons.org/licenses/by/3.0
+
+        sound_honk.wav
+        http://www.freesound.org/people/lonemonk/sounds/217138/
+
+        sound_engine-fail.wav
+        http://www.freesound.org/people/JustinBW/sounds/79287/
+
+
+Fonts:
+
+    The "Impact Label" Font is copyright (c) 2011 Tension Type
+    http://www.dafont.com/impact-label.font
+    http://www.tensiontype.com/
+
+    "Arcade" by Yuji Adachi
+    http://www.dafont.com/arcade-ya.font
+    http://9031.com/fonts/

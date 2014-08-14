@@ -1,0 +1,12 @@
+2014-06-30  0.9     Initial release
+
+2014-07-06  0.91    Added commenting to code, as well as some documentation.
+                    Also made a couple of minor optimizations and added the
+                    options to mute and 'manually' limit FPS to 60.
+
+2014-07-07  0.92    Reduced the size of the source and installer distributables
+                    considerably by scaling textures outside of the game and
+                    converting all of the WAV sound effects to ogg.  There's a
+                    touch less asteroid size variety as a result (not as much
+                    room to scale around in during gameplay), but meh.  Game
+                    starts up a bit quicker now, too.

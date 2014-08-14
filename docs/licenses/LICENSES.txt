@@ -1,0 +1,118 @@
+================================================================================
+                               HONK SOUND EFFECT
+================================================================================
+
+The 'honk' sound effect was downloaded from freesound.org.  The specific link to
+the file is:
+
+    http://www.freesound.org/people/lonemonk/sounds/217138/
+
+It was uploaded by user 'lonemonk' and is licensed under the Creative Commons
+Attribution license - see 'LICENSE_CC-BY-3.0.txt' for details, or visit:
+
+    http://creativecommons.org/licenses/by/3.0/
+
+
+================================================================================
+                            ENGINE FAIL SOUND EFFECT
+================================================================================
+
+The engine fail sound effect was downloaded from freesound.org.  The specific link
+to the file is:
+
+    http://www.freesound.org/people/JustinBW/sounds/79287/
+
+It was uploaded by user 'JustinBW' and is licensed under the Creative Commons
+Attribution license - see 'LICENSE_CC-BY-3.0.txt' for details, or visit:
+
+    http://creativecommons.org/licenses/by/3.0/
+
+
+================================================================================
+                             EXPLOSION SOUND EFFECT
+================================================================================
+
+The 'explosion' sound effect was downloaded from freesound.org.  The specific
+link to the file is:
+
+    http://www.freesound.org/people/tommccann/sounds/235968/
+
+It was uploaded by user 'tommccann' and is licensed under the Creative Commons
+Zero license - see 'LICENSE_CC-0-1.0.txt' for details, or visit:
+
+    http://creativecommons.org/publicdomain/zero/1.0/
+
+
+================================================================================
+                               DING SOUND EFFECT
+================================================================================
+
+The 'ding' sound effect was downloaded from freesound.org.  The specific link to
+the file is:
+
+    http://www.freesound.org/people/gloriaeffect/sounds/108428/
+
+It was uploaded by user 'gloriaeffect' and is licensed under the Creative
+Commons Zero license - see 'LICENSE_CC-0-1.0.txt' for details, or visit:
+
+    http://creativecommons.org/publicdomain/zero/1.0/
+
+
+================================================================================
+                              'KISS' SOUND EFFECT
+================================================================================
+
+The 'kiss' sound effect was downloaded from freesound.org.  The specific link to
+the file is:
+
+    http://www.freesound.org/people/GameAudio/sounds/220173/
+
+It was uploaded by user 'GameAudio' and is licensed under the Creative
+Commons Zero license - see 'LICENSE_CC-0-1.0.txt' for details, or visit:
+
+    http://creativecommons.org/publicdomain/zero/1.0/
+
+
+
+================================================================================
+                          ENGINE UP/DOWN SOUND EFFECT
+================================================================================
+
+The engine up/down sound effect was downloaded from freesound.org.  The specific
+link to the file is:
+
+    http://www.freesound.org/people/minian89/sounds/152509/
+
+It was uploaded by user 'minian89' and is licensed under the Creative
+Commons Zero license - see 'LICENSE_CC-0-1.0.txt' for details, or visit:
+
+    http://creativecommons.org/publicdomain/zero/1.0/
+
+
+
+================================================================================
+1UP SOUND EFFECT
+================================================================================
+
+The '1up' sound effect was downloaded from freesound.org.  The specific lino to
+the file is:
+
+    http://www.freesound.org/people/RandomationPictures/sounds/138485/
+
+It was uploaded by user 'RandomationPictures' and is licensed under the Creative
+Commons Zero license - see 'LICENSE_CC-0-1.0.txt' for details, or visit:
+
+    http://creativecommons.org/publicdomain/zero/1.0/
+
+
+
+================================================================================
+                               IMPACT LABEL FONT
+================================================================================
+
+The Impact Label Font is copyright (c) 2011 Tension Type.  See
+'Impact Label Font.txt' for details, or visit
+
+    http://www.dafont.com/impact-label.font
+
+for more information or to download it yourself.
